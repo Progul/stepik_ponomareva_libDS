@@ -68,7 +68,7 @@
 
 Можете взять для анализа любой свой датасет или же воспользоваться следюущими:
 
-Характеристики красного вина https://archive.ics.uci.edu/ml/datasets/wine+quality
-Продажи видео-игр https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
-Уход сотрудника https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction 
+Характеристики красного вина https://archive.ics.uci.edu/ml/datasets/wine+quality <br>
+Продажи видео-игр https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset <br>
+Уход сотрудника https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction <br>
 

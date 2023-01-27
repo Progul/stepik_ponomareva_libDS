@@ -1,6 +1,6 @@
 ## ДЗ по курсу "Библиотеки Python для DataScience"
 
-[### Домашняя работа 1.1](https://github.com/Progul/stepik_ponomareva_libDS/blob/master/HW_1/hw_1.ipynb)
+### [Домашняя работа 1.1](https://github.com/Progul/stepik_ponomareva_libDS/blob/master/HW_1/hw_1.ipynb)
 
 Данные для ДЗ можете скачать с google диска: https://drive.google.com/file/d/1MpWBFIbqu4mbiD0BBKYX6YhS-f4mN3Z_
 
@@ -12,7 +12,7 @@
 6. Определить портрет аудитории удержанных подписчиков (по возрасту и языку)
 
 
-[### Домашняя работа 1.2](https://github.com/Progul/stepik_ponomareva_libDS/blob/master/HW_1/HW_1.2.ipynb)
+### [Домашняя работа 1.2](https://github.com/Progul/stepik_ponomareva_libDS/blob/master/HW_1/HW_1.2.ipynb)
 
 Выполните следующее практическое задание:
 
